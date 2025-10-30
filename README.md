@@ -68,8 +68,6 @@ The application simulates a real-world booking system for **theatrical and music
 📧 [alex_tsamprounis@hotmail.com](mailto:alex_tsamprounis@hotmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/alexandrostsamprounis) • 💻 [GitHub](https://github.com/AlexTsamprounis)
 
-> 💡 *If you're a recruiter or developer interested in my work, feel free to connect or explore my other repositories.*
 
----
 
 ⭐ **If you found this project interesting, please consider giving it a star on GitHub!**
